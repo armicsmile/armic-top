@@ -1,0 +1,19 @@
+{
+  "name": "armic-top",
+  "version": "1.0.0",
+  "description": "high tech low life",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armicsmile/armic-top.git"
+  },
+  "author": "armic",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0",
+    "plotly.js": "1.x.x"
+  }
+}

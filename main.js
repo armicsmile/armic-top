@@ -2,6 +2,7 @@ const electron      = require('electron')
 const app           = electron.app
 const BrowserWindow = electron.BrowserWindow;
 
+
 // Define main window as a global variable
 let win
 
